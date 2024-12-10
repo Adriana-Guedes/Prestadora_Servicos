@@ -53,7 +53,7 @@ Integração com API para autenticação e envio de dados.
 
 ## Requisitos
 
-## Backend:
+### Backend:
 
 Java 17 ou superior.
 
@@ -61,7 +61,7 @@ Maven 3.8 ou superior.
 
 Banco de Dados configurado (MySQL por padrão).
 
-## Frontend:
+### Frontend:
 
 Node.js 16 ou superior.
 
