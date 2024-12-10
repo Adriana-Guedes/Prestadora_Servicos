@@ -7,7 +7,8 @@ Sistema de Login e Cadastro de Usuários
 Este projeto consiste em uma aplicação de autenticação de usuários. 
 Ele possui um backend em Java, utilizando Spring Boot para criar a API com segurança integrada, e um frontend que encontra-se no repositorio : https://github.com/Adriana-Guedes/Front-End-Prestadora-Servico/tree/main, desenvolvido em Angular para permitir o login e cadastro de novos usuários.
 
-![1715624929160](https://github.com/user-attachments/assets/03a19855-c105-41a9-94f5-8d68a3e10309)
+
+![1715624925926](https://github.com/user-attachments/assets/9184ce60-138b-4b22-909e-fb47bad98004)
 
 
 
