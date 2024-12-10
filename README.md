@@ -67,8 +67,5 @@ Node.js 16 ou superior.
 
 Angular CLI 15 ou superior.
 
-Instruções de Instalação
-
-Backend
 
 
